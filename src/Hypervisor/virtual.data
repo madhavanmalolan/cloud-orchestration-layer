@@ -1,0 +1,3 @@
+Booting paravirtualized kernel on bare hardware
+input: Macintosh mouse button emulation as /devices/virtual/input/input3
+warning: `VirtualBox' uses 32-bit capabilities (legacy support in use)

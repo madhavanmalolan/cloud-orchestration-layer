@@ -1,0 +1,9 @@
+Madhavan Malolan
+
+Master is the central server, useage python Hypervisor.py <Vm_images>
+Hypervisor runs on each Hypervisor , useage : python Hypervisor.py <Vm_images>
+
+Assumptions
+1) files machines, Vm_images and images are present in the working Dir
+2) 
+
